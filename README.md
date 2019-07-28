@@ -2,7 +2,7 @@
 
 This repository contains the code for the AI4GenetX Research Project. Contained is a complex Convolutional Neural Network built using Keras with a backend of TensorFlow in Python 3.
 
-Because of space limitations, the training images for this project could not be uploaded here. If you want the training images, please contact me.
+Because of space limitations, the training images for this project could not be uploaded here. If you want the training images, please send me an email.
 
 ## **Abstract**
 
